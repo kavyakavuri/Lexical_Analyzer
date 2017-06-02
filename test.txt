@@ -1,0 +1,12 @@
+
+int a,b;
+char c ;
+a=3;
+b=4; 
+int d;
+d=a+b;
+while(a<6)
+	{
+				a=a+1;
+				b=a+b+c+d;
+	}
